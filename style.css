@@ -1,0 +1,12 @@
+body{
+  background-color: aqua;
+}
+
+img{
+  width: 200px;
+  height: 200px;
+}
+
+img:active{
+  transform: scale(0.5);
+}
